@@ -1,0 +1,6 @@
+﻿  Ajedrez.cpp
+C:\Users\emi_a\source\repos\Actividad 2 Ajedrez\Ajedrez.cpp(26,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\emi_a\source\repos\Actividad 2 Ajedrez\Ajedrez.cpp(26,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\emi_a\source\repos\Actividad 2 Ajedrez\Ajedrez.cpp(30,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\emi_a\source\repos\Actividad 2 Ajedrez\Ajedrez.cpp(30,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Actividad 2 Ajedrez.vcxproj -> C:\Users\emi_a\source\repos\Actividad 2 Ajedrez\x64\Debug\Actividad 2 Ajedrez.exe
