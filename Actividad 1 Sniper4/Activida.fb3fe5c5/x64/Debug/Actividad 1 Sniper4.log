@@ -1,0 +1,4 @@
+﻿  Sniper4.cpp
+C:\Users\emi_a\source\repos\Actividad 1 Sniper4\Sniper4.cpp(10,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\emi_a\source\repos\Actividad 1 Sniper4\Sniper4.cpp(10,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Actividad 1 Sniper4.vcxproj -> C:\Users\emi_a\source\repos\Actividad 1 Sniper4\x64\Debug\Actividad 1 Sniper4.exe
