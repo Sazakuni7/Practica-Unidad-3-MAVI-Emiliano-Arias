@@ -1,0 +1,3 @@
+﻿  Plataformas.cpp
+C:\Users\emi_a\source\repos\Actividad 4 Plataformas\Plataformas.cpp(20,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Actividad 4 Plataformas.vcxproj -> C:\Users\emi_a\source\repos\Actividad 4 Plataformas\x64\Debug\Actividad 4 Plataformas.exe
