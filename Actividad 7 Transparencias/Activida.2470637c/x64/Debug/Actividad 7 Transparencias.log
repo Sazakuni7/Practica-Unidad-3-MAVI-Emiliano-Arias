@@ -1,0 +1,4 @@
+﻿  Transparencias.cpp
+C:\Users\emi_a\source\repos\Actividad 7 Transparencias\Transparencias.cpp(13,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\emi_a\source\repos\Actividad 7 Transparencias\Transparencias.cpp(13,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Actividad 7 Transparencias.vcxproj -> C:\Users\emi_a\source\repos\Actividad 7 Transparencias\x64\Debug\Actividad 7 Transparencias.exe
