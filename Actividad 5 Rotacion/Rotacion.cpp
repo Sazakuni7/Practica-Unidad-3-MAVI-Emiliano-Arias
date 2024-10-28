@@ -21,7 +21,7 @@ int main() {
 	{
 		App.clear();
 		//Mientras ventana esté abierta, el sprite rotará 1 grado
-		sprite.rotate(1.f);
+		sprite.rotate(0.01f);
 		App.draw(sprite);
 		App.display();
 	}
